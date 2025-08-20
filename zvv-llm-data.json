@@ -1,0 +1,54 @@
+{
+	"meta": {
+		"version": "0.1.0",
+		"generated_at": "2025-08-20T00:00:00Z",
+		"source": "zvv.ch öffentliche Seiten"
+	},
+	"lines": [
+		{
+			"id": "Tram 11",
+			"type": "Tram",
+			"route": "Auzelg – Oerlikon – Hauptbahnhof – Bürkliplatz – Rehalp",
+			"operator": "VBZ"
+		},
+		{
+			"id": "S2",
+			"type": "S-Bahn",
+			"route": "Zürich HB – Thalwil – Pfäffikon SZ",
+			"operator": "SBB"
+		}
+	],
+	"ticket_types": [
+		{
+			"name": "Einzelbillett",
+			"validity": "Einfache Fahrt in den gelösten Zonen, gültig für die angegebene Dauer.",
+			"variants": ["Erwachsene", "Ermässigt (Kinder bis 16)"]
+		},
+		{
+			"name": "Tageskarte",
+			"validity": "Beliebig viele Fahrten in den gelösten Zonen bis 05:00 Uhr am Folgetag.",
+			"variants": ["Normaltarif", "9-Uhr-Tagespass (gültig ab 09:00)"]
+		}
+	],
+	"zones": [
+		{
+			"zone": "110",
+			"name": "Stadt Zürich",
+			"description": "Zentrumszone 110, umfasst die Stadt Zürich.",
+			"special": "Zählt tariflich als zwei Zonen"
+		},
+		{
+			"zone": "120",
+			"name": "Stadt Winterthur",
+			"description": "Städtische Zone Winterthur.",
+			"special": null
+		}
+	],
+	"contact": {
+		"phone": "0800 988 988",
+		"email": "info@zvv.ch",
+		"hours": "Täglich 06:00–22:00",
+		"website": "https://www.zvv.ch",
+		"address": "ZVV-Contact, Postfach, 8040 Zürich"
+	}
+} 

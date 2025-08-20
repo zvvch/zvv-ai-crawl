@@ -1,0 +1,18 @@
+# Zürcher Verkehrsverbund (ZVV)
+
+> Der Zürcher Verkehrsverbund koordiniert den öffentlichen Verkehr im Kanton Zürich und Umgebung. Auf zvv.ch finden Fahrgäste Fahrpläne, Ticketinformationen, Tarifzonen und aktuelle Betriebsmeldungen.
+
+## Hauptinhalte
+
+- [Fahrplan & Verbindungen](https://www.zvv.ch/zvv/de/fahrplan.html): Online-Fahrplan mit Echtzeit-Abfahrten und Routenplanung.
+- [Tickets & Tarife](https://www.zvv.ch/zvv/de/tickets.html): Übersicht über Ticketarten, Preise und Abonnements (z. B. Z-Pass).
+- [Zonenplan & Tarifzonen](https://www.zvv.ch/zvv/de/linien-und-zonen/zonenplaene.html): Tarifzonensystem und aktuelle Zonenpläne.
+- [Netzpläne & Liniennetz](https://www.zvv.ch/zvv/de/linien-und-zonen/liniennetzplaene.html): Liniennetz-Übersichten (Stadt, Region, Nachtverkehr).
+- [Häufige Fragen (FAQ)](https://www.zvv.ch/zvv/de/service/kundendienst/haeufige-fragen.html): Antworten zu Tickets, Zonen, Apps und mehr.
+- [Verkehrslage (Echtzeit-Infos)](https://www.zvv.ch/zvv/de/fahrplan/verkehrslage.html): Aktuelle Betriebsmeldungen zu Störungen und Verspätungen.
+- [Kontakt & Kundendienst](https://www.zvv.ch/zvv/de/service/kundendienst.html): Kontakt (Gratisnummer 0800 988 988), Öffnungszeiten, Kundencenter.
+
+## Entwickler & Daten (optional)
+
+- [ZVV-LLM-Daten (JSON)](https://www.zvv.ch/zvv-llm-data.json)
+- [Sitemap](https://www.zvv.ch/sitemap.xml) 
